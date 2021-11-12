@@ -1,1 +1,1 @@
-from .function import *
+from .mypackage import *
